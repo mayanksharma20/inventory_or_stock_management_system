@@ -13,3 +13,20 @@ An admin has the right to manage and allocate items, departments, suppliers, and
 
 5.	Supplier: This module manages information about suppliers. It allows you to store and update supplier details, track supplier performance, and manage the procurement of new stock from suppliers.
 6.	Reporting and Analytics: This module provides analytical insights into inventory performance. It allows you to generate reports on stock levels, sales trends, order fulfillment, and supplier performance. It may also include features like forecasting demand, identifying slow-moving or obsolete items, and optimizing inventory based on historical data.
+
+
+ER Diagram
+![image](https://github.com/mayanksharma20/inventory_or_stock_management_system/assets/47239249/40b41638-4611-4fc7-98aa-384a068699a1)
+
+Screen Output
+![image](https://github.com/mayanksharma20/inventory_or_stock_management_system/assets/47239249/d1228d15-201f-43c5-88e9-2f10501fd600)
+![image](https://github.com/mayanksharma20/inventory_or_stock_management_system/assets/47239249/4fe9a139-57b9-4d41-ba5f-60d7b8437c92)
+![image](https://github.com/mayanksharma20/inventory_or_stock_management_system/assets/47239249/beb84b50-3b08-470e-abf3-793896134ab6)
+![image](https://github.com/mayanksharma20/inventory_or_stock_management_system/assets/47239249/2a3c07da-6d8a-4eab-b933-1b528dbf92f3)
+![image](https://github.com/mayanksharma20/inventory_or_stock_management_system/assets/47239249/a65b2349-101c-42f3-89f0-1b2e94215992)
+
+for Project file contact mayank0708s@gmail.com
+Thankyou
+
+
+
